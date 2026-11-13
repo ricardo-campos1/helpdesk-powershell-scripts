@@ -1,0 +1,12 @@
+# Logs
+*.log
+
+# Output files the scripts create (results logs, saved reports)
+NewUserResults_*.csv
+*-Info.txt
+output/
+
+# Editor and OS files
+.vscode/
+Thumbs.db
+.DS_Store
